@@ -53,7 +53,7 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 - controle de versão com Git e GitHub;
 - leitura e revisão de código em TypeScript;
 - componentes, propriedades, estados e eventos em React;
-- estrutura e rotas de aplicações Next.js;
+- estrutura e rotas de aplicações com Next.js;
 - integração com banco de dados utilizando Supabase;
 - ampliação gradual da autonomia para implementar, testar e corrigir funcionalidades.
 
