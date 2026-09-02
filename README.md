@@ -44,60 +44,35 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 ---
 
-## Foco técnico atual
+## Projeto em destaque
 
-- fundamentos de programação e JavaScript;
-- desenvolvimento web com HTML e CSS;
-- estilização responsiva e organização de interfaces;
-- consultas SQL e modelagem de dados relacionais;
-- controle de versão com Git e GitHub;
-- leitura e revisão de código em TypeScript;
-- componentes, propriedades, estados e eventos em React;
-- estrutura e rotas de aplicações com Next.js;
-- integração com banco de dados utilizando Supabase;
-- ampliação gradual da autonomia para implementar, testar e corrigir funcionalidades.
+### [DeliveryFone Trade OS](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
-<br>
+Aplicação web para gestão de estoque e vendas em uma operação de varejo de telefonia. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
 
----
+**Principais recursos:**
 
-## Desenvolvimento orientado ao problema
+- estoque, preços, simulações, vendas e avaliação de aparelhos usados;
+- autenticação e controle de acesso por cargo e filial;
+- regras para descontos, reservas e confirmação de vendas;
+- relatórios comerciais e exportação de dados;
+- testes automatizados para cálculos e regras críticas do negócio.
 
-Minha abordagem parte da compreensão do problema antes da implementação:
+**Stack:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
 
-```text
-problema real
-    ↓
-levantamento de requisitos
-    ↓
-definição das regras de negócio
-    ↓
-organização dos dados e fluxos
-    ↓
-implementação
-    ↓
-testes e validação
-```
+**Status:** em desenvolvimento, com ambiente privado de teste para validação dos fluxos na operação.
 
-Esse processo conecta minha experiência com operações e sistemas ao desenvolvimento de soluções digitais alinhadas às necessidades de quem utiliza a aplicação.
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
 <br>
 
 ---
 
-## Práticas e interesses
+## Prática atual
 
-- desenvolvimento de aplicações web;
-- interfaces responsivas;
-- componentes reutilizáveis;
-- integração entre aplicação e banco de dados;
-- autenticação e controle de acesso;
-- SQL e bancos de dados relacionais;
-- modelagem de dados;
-- análise de requisitos;
-- regras de negócio;
-- organização e documentação técnica;
-- revisão e evolução contínua de código.
+Bacharel em Sistemas de Informação, com foco em Desenvolvimento Web e Análise de Sistemas. Utilizo este projeto para aprofundar conhecimentos em JavaScript, TypeScript, React, Next.js, SQL, PostgreSQL, Git/GitHub e testes.
+
+Minha experiência com processos, operação e regras de negócio orienta o levantamento de requisitos e a evolução das funcionalidades.
 
 <div align="center">
 
