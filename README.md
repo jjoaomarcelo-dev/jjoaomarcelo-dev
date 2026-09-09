@@ -44,25 +44,42 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 ---
 
-## Projeto em destaque
+## Projetos
+
+### [Controle de Parcelas](https://github.com/jjoaomarcelo-dev/installment-tracker)
+
+Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
+
+**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `LocalStorage`
+
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/installment-tracker)
 
 ### [DeliveryFone Trade OS](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
 Aplicação web para gestão de estoque e vendas em uma operação de varejo de telefonia. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
+
+A definição do problema, dos fluxos e das regras de negócio partiu da minha experiência na operação, com ferramentas de inteligência artificial utilizadas como apoio à implementação, revisão e investigação de problemas.
 
 **Principais recursos:**
 
 - estoque, preços, simulações, vendas e avaliação de aparelhos usados;
 - autenticação e controle de acesso por cargo e filial;
 - regras para descontos, reservas e confirmação de vendas;
-- relatórios comerciais e exportação de dados;
-- testes automatizados para cálculos e regras críticas do negócio.
+- relatórios comerciais e testes automatizados sobre regras críticas.
 
-**Stack:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
+**Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
 
 **Status:** em desenvolvimento, com ambiente privado de teste para validação dos fluxos na operação.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
+
+### [Capíva Landing Page](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
+
+Landing page responsiva criada para apresentar o Capíva e organizar o acesso aos projetos desenvolvidos durante a evolução da proposta de organização financeira.
+
+**Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
+
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
 
 <br>
 
@@ -70,9 +87,9 @@ Aplicação web para gestão de estoque e vendas em uma operação de varejo de 
 
 ## Prática atual
 
-Bacharel em Sistemas de Informação, com foco em Desenvolvimento Web e Análise de Sistemas. Utilizo este projeto para aprofundar conhecimentos em JavaScript, TypeScript, React, Next.js, SQL, PostgreSQL, Git/GitHub e testes.
+Bacharel em Sistemas de Informação, atualmente consolidando fundamentos de JavaScript e desenvolvimento web por meio de estudos e projetos práticos. Também possuo experiência com processos, levantamento de necessidades e definição de regras de negócio.
 
-Minha experiência com processos, operação e regras de negócio orienta o levantamento de requisitos e a evolução das funcionalidades.
+Utilizo meus projetos para ampliar gradualmente minha autonomia na implementação, revisão, testes e manutenção de funcionalidades.
 
 <div align="center">
 
