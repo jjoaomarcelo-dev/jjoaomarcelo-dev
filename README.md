@@ -46,7 +46,7 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 ## Projetos
 
-### [Controle de Parcelas](https://github.com/jjoaomarcelo-dev/installment-tracker)
+### [installment-tracker](https://github.com/jjoaomarcelo-dev/installment-tracker)
 
 Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
 
