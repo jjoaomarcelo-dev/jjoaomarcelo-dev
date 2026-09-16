@@ -4,7 +4,7 @@
 
 ---
 
-### Sistemas de Informação | Desenvolvimento Web | Requisitos e Regras de Negócio
+### Desenvolvedor Front-end | JavaScript | HTML5 | CSS3 | Análise de Requisitos e Regras de Negócio
 
 `JavaScript` · `HTML5` · `CSS3` · `SQL` · `PostgreSQL` · `Git`
 
@@ -69,7 +69,7 @@ A definição do problema, dos fluxos e das regras de negócio partiu da minha e
 
 **Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
 
-**Status:** em desenvolvimento, com ambiente privado de teste para validação dos fluxos na operação.
+**Status:** em desenvolvimento e evolução técnica, com fluxos previamente testados por usuários da operação.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
@@ -87,9 +87,9 @@ Landing page responsiva criada para apresentar o Capíva e organizar o acesso ao
 
 ## Prática atual
 
-Bacharel em Sistemas de Informação, atualmente consolidando fundamentos de JavaScript e desenvolvimento web por meio de estudos e projetos práticos. Também possuo experiência com processos, levantamento de necessidades e definição de regras de negócio.
+Bacharel em Sistemas de Informação, direcionando minha carreira para Desenvolvimento Front-end e Análise de Sistemas. Tenho prática com JavaScript, HTML, CSS, Git e GitHub, além de contato prático com TypeScript, React, Next.js, SQL, PostgreSQL, Supabase, APIs REST e testes de software.
 
-Utilizo meus projetos para ampliar gradualmente minha autonomia na implementação, revisão, testes e manutenção de funcionalidades.
+Atualmente, concentro meus estudos no aprofundamento dos fundamentos de JavaScript e utilizo meus projetos para ampliar gradualmente minha autonomia na implementação, revisão, testes e manutenção de funcionalidades.
 
 <div align="center">
 
@@ -97,6 +97,6 @@ Utilizo meus projetos para ampliar gradualmente minha autonomia na implementaç�
 
 ---
 
-`desenvolvimento web` · `dados` · `requisitos` · `regras de negócio`
+`desenvolvimento front-end` · `JavaScript` · `requisitos` · `regras de negócio`
 
 </div>
