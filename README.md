@@ -4,7 +4,7 @@
 
 ---
 
-### Desenvolvedor Front-end | JavaScript | HTML5 | CSS3 | Análise de Requisitos e Regras de Negócio
+### Bacharel em Sistemas de Informação | Foco em Desenvolvimento de Software
 
 `JavaScript` · `HTML5` · `CSS3` · `SQL` · `PostgreSQL` · `Git`
 
@@ -46,14 +46,6 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 ## Projetos
 
-### [Installment Tracker](https://github.com/jjoaomarcelo-dev/installment-tracker)
-
-Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
-
-**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `LocalStorage`
-
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/installment-tracker)
-
 ### [DeliveryFone Trade OS](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
 Aplicação web para gestão de estoque e vendas em uma operação de varejo de telefonia. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
@@ -72,6 +64,14 @@ A definição do problema, dos fluxos e das regras de negócio partiu da minha e
 **Status:** em desenvolvimento e evolução técnica, com fluxos previamente testados por usuários da operação.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
+
+### [Installment Tracker](https://github.com/jjoaomarcelo-dev/installment-tracker)
+
+Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
+
+**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `LocalStorage`
+
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/installment-tracker)
 
 ### [Capíva Landing Page](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
 
