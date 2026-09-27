@@ -6,8 +6,6 @@
 
 ### Bacharel em Sistemas de Informação | Foco em Desenvolvimento de Software
 
-`JavaScript` · `HTML5` · `CSS3` · `SQL` · `PostgreSQL` · `Git`
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcelo-pedrozo)
 [![Repositórios](https://img.shields.io/badge/Repositórios-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/jjoaomarcelo-dev?tab=repositories)
 
