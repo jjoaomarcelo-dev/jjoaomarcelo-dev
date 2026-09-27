@@ -48,7 +48,7 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 ### [DeliveryFone Trade OS](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
-Aplicação web para gestão de estoque e vendas em uma operação de varejo de telefonia. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
+Aplicação web para controlar o fluxo do estoque, formar preços e apoiar negociações em uma loja de celulares. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
 
 A definição do problema, dos fluxos e das regras de negócio partiu da minha experiência na operação, com ferramentas de inteligência artificial utilizadas como apoio à implementação, revisão e investigação de problemas.
 
