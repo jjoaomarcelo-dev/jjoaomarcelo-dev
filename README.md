@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ## Tecnologias
