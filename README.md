@@ -4,7 +4,7 @@
 
 ---
 
-### Bacharel em Sistemas de Informação | Foco em Desenvolvimento de Software
+### Bacharel em Sistemas de Informação | Desenvolvimento de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcelo-pedrozo)
 [![Repositórios](https://img.shields.io/badge/Repositórios-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/jjoaomarcelo-dev?tab=repositories)
@@ -12,6 +12,8 @@
 </div>
 
 ---
+
+Bacharel em Sistemas de Informação, com experiência em gestão operacional e administrativa, liderança de equipe, análise de processos, levantamento de requisitos e regras de negócio. Desenvolvo projetos a partir de necessidades reais e aprofundo minha prática em JavaScript e React, com o objetivo de evoluir para full stack.
 
 ## Tecnologias
 
@@ -46,28 +48,28 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 Aplicação web para controlar o fluxo do estoque, formar preços e apoiar negociações em uma loja de celulares. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
 
-A definição do problema, dos fluxos e das regras de negócio partiu da minha experiência na operação, com ferramentas de inteligência artificial utilizadas como apoio à implementação, revisão e investigação de problemas.
+A partir da minha experiência na operação, defini os requisitos, os fluxos e as regras de negócio e validei funcionalidades com usuários. A implementação contou com apoio de ferramentas de IA.
 
 **Principais recursos:**
 
 - estoque, preços, simulações, vendas e avaliação de aparelhos usados;
-- autenticação e controle de acesso por cargo e filial;
+- autenticação e perfis de gestor e vendedor;
 - regras para descontos, reservas e confirmação de vendas;
 - relatórios comerciais e testes automatizados sobre regras críticas.
 
 **Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
 
-**Status:** em desenvolvimento e evolução técnica, com fluxos previamente testados por usuários da operação.
+**Status:** versão de portfólio em evolução, com ambiente privado de teste.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
-### [Installment Tracker](https://github.com/jjoaomarcelo-dev/installment-tracker)
+### [Capíva Installment Tracker](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
 
 Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
 
 **Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `LocalStorage`
 
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/installment-tracker)
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
 
 ### [Capíva Landing Page](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
 
@@ -83,9 +85,7 @@ Landing page responsiva criada para apresentar o Capíva e organizar o acesso ao
 
 ## Prática atual
 
-Bacharel em Sistemas de Informação, direcionando minha carreira para Desenvolvimento Front-end e Análise de Sistemas. Tenho prática com JavaScript, HTML, CSS, Git e GitHub, além de contato prático com TypeScript, React, Next.js, SQL, PostgreSQL, Supabase, APIs REST e testes de software.
-
-Atualmente, concentro meus estudos no aprofundamento dos fundamentos de JavaScript e utilizo meus projetos para ampliar gradualmente minha autonomia na implementação, revisão, testes e manutenção de funcionalidades.
+Meu direcionamento é Desenvolvimento de Software e Análise de Sistemas. Atualmente, aprofundo JavaScript e React e utilizo os projetos para ampliar minha autonomia na implementação, revisão, testes e manutenção do código.
 
 <div align="center">
 
@@ -93,6 +93,6 @@ Atualmente, concentro meus estudos no aprofundamento dos fundamentos de JavaScri
 
 ---
 
-`desenvolvimento front-end` · `JavaScript` · `requisitos` · `regras de negócio`
+`desenvolvimento de software` · `JavaScript` · `requisitos` · `regras de negócio`
 
 </div>
