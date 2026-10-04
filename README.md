@@ -13,7 +13,9 @@
 
 ---
 
-Bacharel em Sistemas de Informação, com experiência em gestão operacional e administrativa, liderança de equipe, análise de processos, levantamento de requisitos e regras de negócio. Desenvolvo projetos a partir de necessidades reais e aprofundo minha prática em JavaScript e React, com o objetivo de evoluir para full stack.
+Bacharel em Sistemas de Informação, com experiência em gestão operacional e administrativa, liderança de equipe, análise de processos, levantamento de requisitos e regras de negócio.
+
+Desenvolvo projetos a partir de necessidades reais, conectando requisitos e regras de negócio à construção de aplicações web. Aprofundo meus conhecimentos em desenvolvimento de software, com o objetivo de atuar como full stack.
 
 ## Tecnologias
 
