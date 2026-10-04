@@ -1,98 +1,93 @@
 <div align="center">
 
-# João Marcelo Pedrozo
+<img src="assets/banner.svg" width="100%" alt="João Marcelo Pedrozo — Next.js, TypeScript e Supabase" />
 
----
+### Desenvolvedor de software com visão de negócio e experiência em gestão
 
-### Bacharel em Sistemas de Informação | Foco em Desenvolvimento de Software
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcelo-pedrozo)
-[![Repositórios](https://img.shields.io/badge/Repositórios-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/jjoaomarcelo-dev?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/joao-marcelo-pedrozo)
+[![Portfolio](https://img.shields.io/badge/Projeto_em_destaque-DeliveryFone_Trade_OS-D4A600?style=flat-square)](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
 </div>
 
----
+## Perfil
+
+Bacharel em Sistemas de Informação, com experiência em gestão operacional, análise de processos, levantamento de requisitos e regras de negócio. Desenvolvo projetos de software a partir de necessidades reais e aprofundo minha prática em JavaScript e React, com o objetivo de evoluir para full stack.
 
 ## Tecnologias
 
-### Base atual
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B0F14?style=for-the-badge&logo=javascript&logoColor=3B82F6)
-![HTML5](https://img.shields.io/badge/HTML5-0B0F14?style=for-the-badge&logo=html5&logoColor=3B82F6)
-![CSS3](https://img.shields.io/badge/CSS3-0B0F14?style=for-the-badge&logo=css3&logoColor=3B82F6)
-![SQL](https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=3B82F6)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=3B82F6)
-![Git](https://img.shields.io/badge/GIT-0B0F14?style=for-the-badge&logo=git&logoColor=3B82F6)
-![GitHub](https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=3B82F6)
-
-### Utilizadas em projetos
-
-Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
-
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0B0F14?style=for-the-badge&logo=typescript&logoColor=3B82F6)
-![React](https://img.shields.io/badge/REACT-0B0F14?style=for-the-badge&logo=react&logoColor=3B82F6)
-![Next.js](https://img.shields.io/badge/NEXT.JS-0B0F14?style=for-the-badge&logo=nextdotjs&logoColor=3B82F6)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-0B0F14?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6)
-![Supabase](https://img.shields.io/badge/SUPABASE-0B0F14?style=for-the-badge&logo=supabase&logoColor=3B82F6)
-![Vercel](https://img.shields.io/badge/VERCEL-0B0F14?style=for-the-badge&logo=vercel&logoColor=3B82F6)
-
-<br>
-
----
-
-## Projetos
-
-### [DeliveryFone Trade OS](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
-
-Aplicação web para controlar o fluxo do estoque, formar preços e apoiar negociações em uma loja de celulares. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
-
-A definição do problema, dos fluxos e das regras de negócio partiu da minha experiência na operação, com ferramentas de inteligência artificial utilizadas como apoio à implementação, revisão e investigação de problemas.
-
-**Principais recursos:**
-
-- estoque, preços, simulações, vendas e avaliação de aparelhos usados;
-- autenticação e controle de acesso por cargo e filial;
-- regras para descontos, reservas e confirmação de vendas;
-- relatórios comerciais e testes automatizados sobre regras críticas.
-
-**Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
-
-**Status:** em desenvolvimento e evolução técnica, com fluxos previamente testados por usuários da operação.
-
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
-
-### [Installment Tracker](https://github.com/jjoaomarcelo-dev/installment-tracker)
-
-Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
-
-**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `LocalStorage`
-
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/installment-tracker)
-
-### [Capíva Landing Page](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
-
-Landing page responsiva criada para apresentar o Capíva e organizar o acesso aos projetos desenvolvidos durante a evolução da proposta de organização financeira.
-
-**Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
-
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
-
-<br>
-
----
-
-## Prática atual
-
-Bacharel em Sistemas de Informação, direcionando minha carreira para Desenvolvimento Front-end e Análise de Sistemas. Tenho prática com JavaScript, HTML, CSS, Git e GitHub, além de contato prático com TypeScript, React, Next.js, SQL, PostgreSQL, Supabase, APIs REST e testes de software.
-
-Atualmente, concentro meus estudos no aprofundamento dos fundamentos de JavaScript e utilizo meus projetos para ampliar gradualmente minha autonomia na implementação, revisão, testes e manutenção de funcionalidades.
+Tecnologias utilizadas nos projetos, sem representar domínio de toda a stack.
 
 <div align="center">
 
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=1572B6)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## Projeto principal
+
+<table>
+  <tr>
+    <td width="58%">
+      <a href="https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os">
+        <img src="https://raw.githubusercontent.com/jjoaomarcelo-dev/deliveryfone-trade-os/main/docs/images/painel.png" alt="Painel do DeliveryFone Trade OS" />
+      </a>
+    </td>
+    <td width="42%" valign="top">
+      <h3>DeliveryFone Trade OS</h3>
+      <p>Aplicação web criada a partir de necessidades reais da operação de uma loja de telefonia.</p>
+      <p><strong>Status:</strong> Versão de portfólio em evolução, com ambiente privado de teste.</p>
+      <p><strong>Funcionalidades e recursos:</strong></p>
+      <ul>
+        <li>estoque e fluxo de vendas;</li>
+        <li>perfis de gestor e vendedor;</li>
+        <li>políticas RLS por filial e cargo definidas nos scripts SQL;</li>
+        <li>avaliação de aparelhos usados;</li>
+        <li>relatórios comerciais;</li>
+        <li>testes automatizados com Jest.</li>
+      </ul>
+      <a href="https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os"><strong>Explorar o projeto →</strong></a>
+    </td>
+  </tr>
+</table>
+
+### Capíva Installment Tracker
+
+Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
+
+**Tecnologias:** JavaScript, HTML5, CSS3 e LocalStorage.
+
+[Explorar o projeto de compras parceladas →](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
+
+## Experiência aplicada ao desenvolvimento
+
+- Gestão operacional e administrativa, liderança de equipe e análise de processos como base para compreender necessidades do negócio.
+- Atendimento e contato com usuários para avaliar a experiência de uso.
+- Formação em Sistemas de Informação como base para transformar processos em software.
+
+## Prática atual
+
+- **Desenvolvimento de Software:** exercícios de programação e construção de interfaces com JavaScript e React.
+- **Análise de Sistemas:** tradução de necessidades em requisitos, fluxos e regras de negócio.
+
+## Como trabalho
+
+No DeliveryFone Trade OS, defini os requisitos, os fluxos e as regras de negócio a partir da minha experiência na operação e validei funcionalidades com usuários. A implementação contou com apoio de ferramentas de IA. Atualmente, aprofundo os fundamentos de programação e reviso o projeto para ampliar minha autonomia na manutenção do código.
+
+<div align="center">
 
 ---
 
-`desenvolvimento front-end` · `JavaScript` · `requisitos` · `regras de negócio`
+`problema real` → `regra de negócio` → `desenvolvimento de software`
 
 </div>

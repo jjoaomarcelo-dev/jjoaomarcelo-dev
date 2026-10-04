@@ -1,0 +1,71 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070707"/>
+      <stop offset="0.52" stop-color="#101010"/>
+      <stop offset="1" stop-color="#070707"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="210" y1="0" x2="990" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8A6500"/>
+      <stop offset="0.5" stop-color="#F4C430"/>
+      <stop offset="1" stop-color="#8A6500"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(600 150) rotate(90) scale(210 650)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D49F00" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#D49F00" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="typingName">
+      <rect x="219" y="89" width="0" height="64">
+        <animate attributeName="width" values="0;770;770" keyTimes="0;0.52;1" dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typingStack">
+      <rect x="354" y="177" width="0" height="32">
+        <animate attributeName="width" values="0;0;500;500" keyTimes="0;0.55;0.9;1" dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="#2A2A2A" stroke-width="2"/>
+
+  <g opacity="0.5">
+    <circle cx="36" cy="31" r="6" fill="#FF5F56"/>
+    <circle cx="57" cy="31" r="6" fill="#FFBD2E"/>
+    <circle cx="78" cy="31" r="6" fill="#27C93F"/>
+    <text x="104" y="37" fill="#777777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">profile.tsx</text>
+  </g>
+  <path d="M0 57H1200" stroke="#222222"/>
+
+  <text x="218" y="137" fill="#F5F5F5" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="55" letter-spacing="2" clip-path="url(#typingName)">JOÃO MARCELO PEDROZO</text>
+  <rect x="218" y="151" width="764" height="3" rx="1.5" fill="url(#gold)" opacity="0.85" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="351" y="201" fill="#D4A600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" clip-path="url(#typingStack)">&gt; Next.js • TypeScript • Supabase</text>
+
+  <g>
+    <rect x="851" y="178" width="13" height="28" rx="2" fill="#F4C430">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="600" y="250" text-anchor="middle" fill="#777777" font-family="Inter, Arial, sans-serif" font-size="17" letter-spacing="1.4">SOFTWARE • NEGÓCIO • SOLUÇÕES REAIS</text>
+
+  <circle cx="180" cy="151" r="3" fill="#D4A600">
+    <animate attributeName="r" values="2;5;2" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="151" r="3" fill="#D4A600">
+    <animate attributeName="r" values="5;2;5" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
