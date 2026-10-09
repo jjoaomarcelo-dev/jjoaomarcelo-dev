@@ -15,7 +15,7 @@
 
 Bacharel em Sistemas de Informação, com experiência em gestão operacional e administrativa, liderança de equipe, análise de processos, levantamento de requisitos e regras de negócio.
 
-Desenvolvo projetos a partir de necessidades reais, conectando requisitos e regras de negócio à construção de aplicações web. Aprofundo meus conhecimentos em desenvolvimento de software, com o objetivo de atuar como full stack.
+Estou consolidando minhas competências em desenvolvimento de software, com o objetivo de evoluir para full stack. Meu portfólio reúne projetos para praticar programação e desenvolver autonomia técnica, além de aplicações que conectam necessidades reais a requisitos, fluxos e regras de negócio.
 
 ## Tecnologias
 
@@ -31,7 +31,7 @@ Desenvolvo projetos a partir de necessidades reais, conectando requisitos e regr
 
 ### Utilizadas em projetos
 
-Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
+Tecnologias utilizadas nas aplicações do portfólio, incluindo projetos desenvolvidos com apoio de IA.
 
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0B0F14?style=for-the-badge&logo=typescript&logoColor=3B82F6)
 ![React](https://img.shields.io/badge/REACT-0B0F14?style=for-the-badge&logo=react&logoColor=3B82F6)
@@ -46,40 +46,45 @@ Tecnologias aplicadas em projetos e em aprofundamento técnico contínuo.
 
 ## Projetos
 
-### [DeliveryFone Trade OS](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
+### JavaScript Study Dashboard
 
-Aplicação web para controlar o fluxo do estoque, formar preços e apoiar negociações em uma loja de celulares. O projeto surgiu de necessidades reais do negócio e centraliza processos antes distribuídos entre ERP, planilhas e consultas à gestão.
+Projeto em desenvolvimento com HTML, CSS e JavaScript puro para registrar estudos e reunir aulas, exercícios e pequenos projetos.
 
-A partir da minha experiência na operação, defini os requisitos, os fluxos e as regras de negócio e validei funcionalidades com usuários. A implementação contou com apoio de ferramentas de IA.
-
-**Principais recursos:**
-
-- estoque, preços, simulações, vendas e avaliação de aparelhos usados;
-- autenticação e perfis de gestor e vendedor;
-- regras para descontos, reservas e confirmação de vendas;
-- relatórios comerciais e testes automatizados sobre regras críticas.
-
-**Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest` · `Vercel`
-
-**Status:** versão de portfólio em evolução, com ambiente privado de teste.
-
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
-
-### [Capíva Installment Tracker](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
-
-Aplicação para cadastrar e acompanhar compras parceladas, com cálculo de vencimentos, controle de pagamentos, consulta mensal e armazenamento dos dados no navegador.
-
-**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `LocalStorage`
-
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
-
-### [Capíva Landing Page](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
-
-Landing page responsiva criada para apresentar o Capíva e organizar o acesso aos projetos desenvolvidos durante a evolução da proposta de organização financeira.
+Escrevo o código dos exercícios e das funcionalidades estudadas sem utilizar IA para gerá-lo, com foco em consolidar os fundamentos e ampliar minha autonomia em programação. A proposta inclui acesso ao código e à execução dos exercícios conforme forem adicionados.
 
 **Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
 
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-landing-page)
+**Status:** estrutura e layout responsivo implementados; cadastro, listagem e armazenamento ainda serão desenvolvidos.
+
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/javascript-study-dashboard)
+
+### DeliveryFone Trade OS
+
+Aplicação web criada a partir de problemas reais de uma loja de celulares, com recursos para estoque, precificação, simulação de negociações, avaliação de aparelhos usados, reservas e relatórios comerciais.
+
+A partir da minha experiência na operação, organizei os requisitos, defini os fluxos e as regras de negócio e validei funcionalidades com usuários. A implementação do código contou com apoio significativo de ferramentas de IA.
+
+**Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest`
+
+**Status:** desenvolvimento de novas funcionalidades temporariamente pausado; código e demonstrações disponíveis na versão de portfólio.
+
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
+
+### Capíva — Controle de Parcelas
+
+Módulo de organização financeira para cadastrar compras parceladas, acompanhar vencimentos, registrar pagamentos e consultar os compromissos de cada mês. Os dados são armazenados no navegador com localStorage.
+
+O desenvolvimento contou com apoio de ferramentas de IA em partes da implementação.
+
+**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `localStorage`
+
+**Status:** versão publicada para demonstração; desenvolvimento de novas funcionalidades temporariamente pausado.
+
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
+
+[Acessar a aplicação →](https://jjoaomarcelo-dev.github.io/capiva-installment-tracker/)
+
+[Conhecer a landing page do Capíva →](https://jjoaomarcelo-dev.github.io/capiva-landing-page/)
 
 <br>
 
@@ -87,7 +92,7 @@ Landing page responsiva criada para apresentar o Capíva e organizar o acesso ao
 
 ## Prática atual
 
-Meu direcionamento é Desenvolvimento de Software e Análise de Sistemas. Atualmente, aprofundo JavaScript e React e utilizo os projetos para ampliar minha autonomia na implementação, revisão, testes e manutenção do código.
+Meu foco atual é consolidar os fundamentos de JavaScript por meio de exercícios e da construção do Dashboard de Estudos. Sigo aprofundando meus conhecimentos em desenvolvimento de software para ampliar minha autonomia e avançar gradualmente para TypeScript, React e desenvolvimento full stack.
 
 <div align="center">
 
