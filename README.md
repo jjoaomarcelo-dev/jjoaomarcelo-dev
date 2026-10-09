@@ -54,7 +54,7 @@ Escrevo o código dos exercícios e das funcionalidades estudadas sem utilizar I
 
 **Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
 
-**Status:** estrutura e layout responsivo implementados; cadastro, listagem e armazenamento ainda serão desenvolvidos.
+**Status:** em desenvolvimento, com funcionalidades adicionadas conforme avanço nos estudos. O progresso pode ser acompanhado no README do projeto.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/javascript-study-dashboard)
 
