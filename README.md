@@ -46,17 +46,17 @@ Tecnologias utilizadas nas aplicações do portfólio, incluindo projetos desenv
 
 ## Projetos
 
-### JavaScript Study Dashboard
+### JavaScript Projects Dashboard
 
-Projeto em desenvolvimento com HTML, CSS e JavaScript puro para registrar estudos e reunir aulas, exercícios e pequenos projetos.
+Dashboard desenvolvido com HTML, CSS e JavaScript para cadastrar, organizar e apresentar os exercícios e projetos que desenvolvo durante meus estudos.
 
-Escrevo o código dos exercícios e das funcionalidades estudadas sem utilizar IA para gerá-lo, com foco em consolidar os fundamentos e ampliar minha autonomia em programação. A proposta inclui acesso ao código e à execução dos exercícios conforme forem adicionados.
+Escrevo o código das funcionalidades e dos trabalhos registrados sem utilizar IA para gerá-lo, com foco em consolidar os fundamentos e ampliar minha autonomia em programação. A proposta inclui acesso ao código e à execução de cada exercício ou projeto conforme forem adicionados.
 
 **Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
 
-**Status:** em desenvolvimento, com funcionalidades adicionadas conforme avanço nos estudos. O progresso pode ser acompanhado no README do projeto.
+**Status:** em desenvolvimento contínuo, com funcionalidades adicionadas conforme avanço nos estudos. O progresso pode ser acompanhado no README do projeto.
 
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/javascript-study-dashboard)
+[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/javascript-projects-dashboard)
 
 ### DeliveryFone Trade OS
 
@@ -92,7 +92,7 @@ O desenvolvimento contou com apoio de ferramentas de IA em partes da implementa�
 
 ## Prática atual
 
-Meu foco atual é consolidar os fundamentos de JavaScript por meio de exercícios e da construção do Dashboard de Estudos. Sigo aprofundando meus conhecimentos em desenvolvimento de software para ampliar minha autonomia e avançar gradualmente para TypeScript, React e desenvolvimento full stack.
+Meu foco atual é consolidar os fundamentos de JavaScript por meio de exercícios e da construção do JavaScript Projects Dashboard. Sigo aprofundando meus conhecimentos em desenvolvimento de software para ampliar minha autonomia e avançar gradualmente para TypeScript, React e desenvolvimento full stack.
 
 <div align="center">
 
