@@ -15,7 +15,7 @@
 
 Bacharel em Sistemas de Informação, com experiência em gestão operacional e administrativa, liderança de equipe, análise de processos, levantamento de requisitos e regras de negócio.
 
-Estou consolidando minhas competências em desenvolvimento de software, com o objetivo de evoluir para full stack. Meu portfólio reúne projetos para praticar programação e desenvolver autonomia técnica, além de aplicações que conectam necessidades reais a requisitos, fluxos e regras de negócio.
+Desenvolvo aplicações web com JavaScript, HTML e CSS e busco oportunidades como Desenvolvedor de Software Júnior. Meu portfólio reúne implementações de programação e soluções baseadas em necessidades reais, com experiência na definição de requisitos, fluxos e regras de negócio.
 
 ## Tecnologias
 
@@ -30,8 +30,6 @@ Estou consolidando minhas competências em desenvolvimento de software, com o ob
 ![GitHub](https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=3B82F6)
 
 ### Utilizadas em projetos
-
-Tecnologias utilizadas nas aplicações do portfólio, incluindo projetos desenvolvidos com apoio de IA.
 
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0B0F14?style=for-the-badge&logo=typescript&logoColor=3B82F6)
 ![React](https://img.shields.io/badge/REACT-0B0F14?style=for-the-badge&logo=react&logoColor=3B82F6)
@@ -50,11 +48,11 @@ Tecnologias utilizadas nas aplicações do portfólio, incluindo projetos desenv
 
 Dashboard desenvolvido com HTML, CSS e JavaScript para cadastrar, organizar e apresentar os exercícios e projetos que desenvolvo durante meus estudos.
 
-Escrevo o código das funcionalidades e dos trabalhos registrados sem utilizar IA para gerá-lo, com foco em consolidar os fundamentos e ampliar minha autonomia em programação. A proposta inclui acesso ao código e à execução de cada exercício ou projeto conforme forem adicionados.
+Implementa um CRUD local: cadastro, listagem, edição e exclusão de registros, validação de formulários, persistência com localStorage e resumo por categoria e status. O código utiliza funções, arrays, objetos, eventos e manipulação do DOM.
 
 **Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
 
-**Status:** em desenvolvimento contínuo, com funcionalidades adicionadas conforme avanço nos estudos. O progresso pode ser acompanhado no README do projeto.
+**Status:** CRUD local implementado; próximas funcionalidades documentadas no repositório.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/javascript-projects-dashboard)
 
@@ -62,11 +60,11 @@ Escrevo o código das funcionalidades e dos trabalhos registrados sem utilizar I
 
 Aplicação web criada a partir de problemas reais de uma loja de celulares, com recursos para estoque, precificação, simulação de negociações, avaliação de aparelhos usados, reservas e relatórios comerciais.
 
-A partir da minha experiência na operação, organizei os requisitos, defini os fluxos e as regras de negócio e validei funcionalidades com usuários. A implementação do código contou com apoio significativo de ferramentas de IA.
+A partir da minha experiência na operação, organizei os requisitos, defini os fluxos e as regras de negócio e validei funcionalidades com usuários. As contribuições e o processo de implementação estão documentados no repositório.
 
 **Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest`
 
-**Status:** desenvolvimento de novas funcionalidades temporariamente pausado; código e demonstrações disponíveis na versão de portfólio.
+**Status:** versão de portfólio disponível, com código e demonstrações em vídeo.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
@@ -74,11 +72,9 @@ A partir da minha experiência na operação, organizei os requisitos, defini os
 
 Módulo de organização financeira para cadastrar compras parceladas, acompanhar vencimentos, registrar pagamentos e consultar os compromissos de cada mês. Os dados são armazenados no navegador com localStorage.
 
-O desenvolvimento contou com apoio de ferramentas de IA em partes da implementação.
-
 **Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `localStorage`
 
-**Status:** versão publicada para demonstração; desenvolvimento de novas funcionalidades temporariamente pausado.
+**Status:** versão publicada para demonstração.
 
 [Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
 
@@ -92,7 +88,7 @@ O desenvolvimento contou com apoio de ferramentas de IA em partes da implementa�
 
 ## Prática atual
 
-Meu foco atual é consolidar os fundamentos de JavaScript por meio de exercícios e da construção do JavaScript Projects Dashboard. Sigo aprofundando meus conhecimentos em desenvolvimento de software para ampliar minha autonomia e avançar gradualmente para TypeScript, React e desenvolvimento full stack.
+Atualmente, desenvolvo o JavaScript Projects Dashboard, aplicando validação de formulários, manipulação de dados, DOM e persistência local. Meus próximos passos incluem filtros, busca e acesso aos exercícios pelo navegador, seguidos pela evolução dos estudos em TypeScript, React e desenvolvimento full stack.
 
 <div align="center">
 
