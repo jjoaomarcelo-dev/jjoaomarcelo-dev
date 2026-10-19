@@ -2,45 +2,25 @@
 
 # João Marcelo Pedrozo
 
----
+Desenvolvimento de Software | Sistemas de Informação
 
-### Bacharel em Sistemas de Informação | Desenvolvimento de Software
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcelo-pedrozo)
-[![Repositórios](https://img.shields.io/badge/Repositórios-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/jjoaomarcelo-dev?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-245A81?style=flat-square&color=245A81)](https://www.linkedin.com/in/joao-marcelo-pedrozo)
+[![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-245A81?style=flat-square&color=245A81)](https://github.com/jjoaomarcelo-dev?tab=repositories)
 
 </div>
 
----
+## Apresentação
 
-Bacharel em Sistemas de Informação, com experiência em gestão operacional e administrativa, liderança de equipe, análise de processos, levantamento de requisitos e regras de negócio.
+Bacharel em Sistemas de Informação, com prática em desenvolvimento web com JavaScript, HTML e CSS e experiência em gestão operacional e administrativa, liderança de equipe e análise de processos.
 
-Estou consolidando minhas competências em desenvolvimento de software, com o objetivo de evoluir para full stack. Meu portfólio reúne projetos para praticar programação e desenvolver autonomia técnica, além de aplicações que conectam necessidades reais a requisitos, fluxos e regras de negócio.
+Meu portfólio reúne aplicações para organização de informações e apoio a processos de negócio. Minha experiência inclui levantamento de requisitos, definição de fluxos e regras de negócio e validação de funcionalidades com usuários.
 
 ## Tecnologias
 
-### Base atual
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B0F14?style=for-the-badge&logo=javascript&logoColor=3B82F6)
-![HTML5](https://img.shields.io/badge/HTML5-0B0F14?style=for-the-badge&logo=html5&logoColor=3B82F6)
-![CSS3](https://img.shields.io/badge/CSS3-0B0F14?style=for-the-badge&logo=css3&logoColor=3B82F6)
-![SQL](https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=3B82F6)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=3B82F6)
-![Git](https://img.shields.io/badge/GIT-0B0F14?style=for-the-badge&logo=git&logoColor=3B82F6)
-![GitHub](https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=3B82F6)
-
-### Utilizadas em projetos
-
-Tecnologias utilizadas nas aplicações do portfólio, incluindo projetos desenvolvidos com apoio de IA.
-
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0B0F14?style=for-the-badge&logo=typescript&logoColor=3B82F6)
-![React](https://img.shields.io/badge/REACT-0B0F14?style=for-the-badge&logo=react&logoColor=3B82F6)
-![Next.js](https://img.shields.io/badge/NEXT.JS-0B0F14?style=for-the-badge&logo=nextdotjs&logoColor=3B82F6)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-0B0F14?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6)
-![Supabase](https://img.shields.io/badge/SUPABASE-0B0F14?style=for-the-badge&logo=supabase&logoColor=3B82F6)
-![Vercel](https://img.shields.io/badge/VERCEL-0B0F14?style=for-the-badge&logo=vercel&logoColor=3B82F6)
-
-<br>
+| Contexto | Tecnologias |
+| --- | --- |
+| Prática atual | JavaScript, HTML5, CSS3, Git e GitHub. |
+| Contato em projetos | TypeScript, React, Next.js, Tailwind CSS, SQL, PostgreSQL, Supabase e Jest. |
 
 ---
 
@@ -48,58 +28,54 @@ Tecnologias utilizadas nas aplicações do portfólio, incluindo projetos desenv
 
 ### JavaScript Projects Dashboard
 
-Dashboard desenvolvido com HTML, CSS e JavaScript para cadastrar, organizar e apresentar os exercícios e projetos que desenvolvo durante meus estudos.
+Dashboard em HTML, CSS e JavaScript puro para cadastrar e organizar exercícios e projetos, reunindo os registros em uma interface responsiva.
 
-Escrevo o código das funcionalidades e dos trabalhos registrados sem utilizar IA para gerá-lo, com foco em consolidar os fundamentos e ampliar minha autonomia em programação. A proposta inclui acesso ao código e à execução de cada exercício ou projeto conforme forem adicionados.
+Permite cadastrar, listar, editar e excluir registros (CRUD local), com validação dos campos e persistência no navegador via localStorage. O resumo apresenta totais por categoria e status.
 
-**Tecnologias:** `HTML5` · `CSS3` · `JavaScript`
+**Conceitos aplicados:** funções, arrays, objetos, eventos e manipulação do DOM.
 
-**Status:** em desenvolvimento contínuo, com funcionalidades adicionadas conforme avanço nos estudos. O progresso pode ser acompanhado no README do projeto.
+O armazenamento é local ao navegador utilizado: os registros não são compartilhados entre visitantes.
 
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/javascript-projects-dashboard)
+**Tecnologias:** HTML5, CSS3 e JavaScript.
+
+**Status:** em desenvolvimento.
+
+[Código e documentação](https://github.com/jjoaomarcelo-dev/javascript-projects-dashboard)
 
 ### DeliveryFone Trade OS
 
-Aplicação web criada a partir de problemas reais de uma loja de celulares, com recursos para estoque, precificação, simulação de negociações, avaliação de aparelhos usados, reservas e relatórios comerciais.
+Aplicação web baseada em problemas reais de uma loja de celulares, com estoque, precificação, simulação de negociações, avaliação de aparelhos usados, reservas e relatórios comerciais.
 
-A partir da minha experiência na operação, organizei os requisitos, defini os fluxos e as regras de negócio e validei funcionalidades com usuários. A implementação do código contou com apoio significativo de ferramentas de IA.
+**Minha contribuição:** levantamento e organização de requisitos, definição de fluxos e regras de negócio e validação de funcionalidades com usuários.
 
-**Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Jest`
+**Tecnologias:** Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS e Jest.
 
-**Status:** desenvolvimento de novas funcionalidades temporariamente pausado; código e demonstrações disponíveis na versão de portfólio.
+**Status:** versão de portfólio, com demonstrações em vídeo disponíveis no repositório.
 
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
+[Código, documentação e vídeos](https://github.com/jjoaomarcelo-dev/deliveryfone-trade-os)
 
 ### Capíva — Controle de Parcelas
 
-Módulo de organização financeira para cadastrar compras parceladas, acompanhar vencimentos, registrar pagamentos e consultar os compromissos de cada mês. Os dados são armazenados no navegador com localStorage.
+Aplicação para cadastrar compras parceladas, acompanhar vencimentos, registrar pagamentos e consultar compromissos mensais.
 
-O desenvolvimento contou com apoio de ferramentas de IA em partes da implementação.
+Os dados ficam armazenados localmente no navegador por meio de localStorage.
 
-**Tecnologias:** `JavaScript` · `HTML5` · `CSS3` · `localStorage`
+**Tecnologias:** HTML5, CSS3 e JavaScript.
 
-**Status:** versão publicada para demonstração; desenvolvimento de novas funcionalidades temporariamente pausado.
+**Status:** versão disponível para demonstração.
 
-[Ver código e documentação →](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
+[Código e documentação](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker) · [Demonstração](https://jjoaomarcelo-dev.github.io/capiva-installment-tracker/)
 
-[Acessar a aplicação →](https://jjoaomarcelo-dev.github.io/capiva-installment-tracker/)
+### Capíva — Landing Page
 
-[Conhecer a landing page do Capíva →](https://jjoaomarcelo-dev.github.io/capiva-landing-page/)
+Página responsiva de apresentação do Capíva, com navegação entre seções, alternância de tema e acesso aos projetos relacionados.
 
-<br>
+**Tecnologias:** HTML5, CSS3 e JavaScript.
 
----
-
-## Prática atual
-
-Meu foco atual é consolidar os fundamentos de JavaScript por meio de exercícios e da construção do JavaScript Projects Dashboard. Sigo aprofundando meus conhecimentos em desenvolvimento de software para ampliar minha autonomia e avançar gradualmente para TypeScript, React e desenvolvimento full stack.
-
-<div align="center">
-
-<br>
+[Código e documentação](https://github.com/jjoaomarcelo-dev/capiva-landing-page) · [Demonstração](https://jjoaomarcelo-dev.github.io/capiva-landing-page/)
 
 ---
 
-`desenvolvimento de software` · `JavaScript` · `requisitos` · `regras de negócio`
+## Desenvolvimento atual
 
-</div>
+Atualmente, trabalho na evolução do JavaScript Projects Dashboard, aplicando manipulação do DOM, validação de formulários e persistência local. Os próximos passos incluem filtros, busca e links para os exercícios, com evolução posterior para TypeScript, React e desenvolvimento full stack.
