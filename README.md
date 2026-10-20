@@ -34,7 +34,7 @@ Permite cadastrar, listar, editar e excluir registros (CRUD local), com validaç
 
 **Conceitos aplicados:** funções, arrays, objetos, eventos e manipulação do DOM.
 
-O armazenamento é local ao navegador utilizado: os registros não são compartilhados entre visitantes.
+Nas próximas etapas, vou adicionar os exercícios com links para ver o código e testá-los no navegador.
 
 **Tecnologias:** HTML5, CSS3 e JavaScript.
 
