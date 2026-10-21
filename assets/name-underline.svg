@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="8" viewBox="0 0 560 8" fill="none">
+  <style>
+    @media (prefers-reduced-motion: reduce) { .moving { display: none; } }
+  </style>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4493f8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#4493f8" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#4493f8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4493f8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#4493f8" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#4493f8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="line"><rect y="3" width="560" height="2" rx="1"/></clipPath>
+  </defs>
+  <rect y="3" width="560" height="2" rx="1" fill="url(#base)"/>
+  <g clip-path="url(#line)">
+    <g class="moving">
+      <rect y="3" width="140" height="2" fill="url(#light)"/>
+      <animateTransform attributeName="transform" type="translate" values="-140 0;560 0" dur="8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
