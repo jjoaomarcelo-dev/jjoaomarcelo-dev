@@ -19,11 +19,9 @@ Desenvolvedor de Software · Full Stack · Sistemas de Informação
 
 ## Sobre mim
 
-Sou bacharel em Sistemas de Informação e desenvolvedor com experiência anterior em gestão operacional e administrativa, vendas e liderança de equipes comerciais no varejo de telefonia.
+Bacharel em Sistemas de Informação, com foco em desenvolvimento de software full stack. Desenvolvo aplicações para praticar JavaScript, interfaces web, regras de negócio, APIs e bancos de dados.
 
-Conecto essa experiência ao desenvolvimento de software, traduzindo necessidades da operação em requisitos, regras de negócio e funcionalidades. Minha experiência combina gestão da operação, liderança comercial e análise de processos, com visão prática de como decisões sobre estoque, preços e vendas impactam o negócio.
-
-Busco oportunidades em desenvolvimento de software nas quais eu possa contribuir com capacidade analítica, visão de negócio e construção de soluções. Tenho disponibilidade para atuar na Grande Florianópolis ou de forma remota no Brasil.
+Busco oportunidades em Desenvolvimento de Software e Análise de Sistemas na Grande Florianópolis ou remotamente no Brasil.
 
 ## Competências
 
@@ -34,15 +32,15 @@ Busco oportunidades em desenvolvimento de software nas quais eu possa contribuir
 | **Desenvolvimento e qualidade** | CRUD, gerenciamento de estado, operações assíncronas, validação, testes unitários com Jest e depuração |
 | **Ferramentas e documentação** | Git, GitHub, ESLint e documentação técnica |
 
-**Análise de sistemas e negócio:** levantamento de requisitos, mapeamento de processos, definição de fluxos e regras de negócio e validação de funcionalidades com base nas necessidades da operação.
+**Análise de sistemas:** levantamento de requisitos, mapeamento de processos, definição de fluxos e regras de negócio e validação de funcionalidades.
 
 ## Projetos em destaque
 
 ### DeliveryFone Trade OS
 
-Aplicação web voltada à operação comercial de uma loja de celulares, com gestão de estoque, precificação e simulação de negociações.
+Aplicação web criada a partir de problemas reais da operação de uma loja de eletrônicos e telefonia. O sistema reúne recursos para controle de estoque, precificação e simulação de negociações.
 
-**Minha contribuição:** transformei problemas da operação em requisitos, fluxos e regras de negócio, acompanhei a implementação do sistema e testei as funcionalidades no contexto da loja.
+**Minha contribuição:** identifiquei necessidades da operação, defini requisitos, fluxos e regras de negócio, acompanhei a implementação e participei dos testes das funcionalidades com os usuários.
 
 **Tecnologias:** Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS e Jest.
 
@@ -52,9 +50,9 @@ Aplicação web voltada à operação comercial de uma loja de celulares, com ge
 
 ### JavaScript Projects Dashboard
 
-Dashboard de prática em JavaScript na minha retomada ao desenvolvimento de software. Centraliza exercícios e projetos e evolui com a aplicação dos conceitos estudados em funcionalidades.
+Dashboard que desenvolvi para organizar minha prática em JavaScript durante a retomada ao desenvolvimento de software. A aplicação reúne exercícios e projetos em uma única interface e recebe novas funcionalidades conforme avanço nos estudos.
 
-**Desenvolvimento:** lógica de cadastro, edição e exclusão, filtros, validação e persistência local, com manipulação direta do DOM e interface responsiva.
+**O que já desenvolvi:** cadastro, edição e exclusão de registros, filtros, validação de campos, armazenamento no navegador, manipulação do DOM e interface responsiva.
 
 **Tecnologias:** JavaScript (ES6+), HTML5, CSS3 e Web Storage API.
 
@@ -64,7 +62,7 @@ Dashboard de prática em JavaScript na minha retomada ao desenvolvimento de soft
 
 ### Capíva — Organização financeira
 
-Projeto de organização financeira desenvolvido por módulos. O **Controle de Parcelas** permite acompanhar compras, vencimentos e pagamentos; a **Landing Page** apresenta a proposta do produto.
+Projeto de organização financeira dividido em módulos. O **Controle de Parcelas** permite acompanhar compras, vencimentos e pagamentos, enquanto a **Landing Page** apresenta a proposta do produto.
 
 **Tecnologias:** HTML5, CSS3 e JavaScript.
 
@@ -76,4 +74,4 @@ Projeto de organização financeira desenvolvido por módulos. O **Controle de P
 
 ## Direção profissional
 
-Minha direção é a engenharia de software full stack: conectar interfaces, APIs e dados para resolver problemas de negócio, com atenção a testes, segurança e manutenção. A evolução técnica inclui Java e Spring Boot no back-end e, no longo prazo, aplicações com dados e inteligência artificial.
+Desenvolvimento full stack, com evolução planejada para Java e Spring Boot no back-end e, no longo prazo, aplicações com dados e inteligência artificial.
