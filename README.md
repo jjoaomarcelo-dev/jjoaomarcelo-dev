@@ -19,9 +19,9 @@ Desenvolvimento Web · JavaScript · Análise de Sistemas
 
 ## Sobre mim
 
-Atualmente, desenvolvo projetos web e amplio minha prática com interfaces, regras de negócio, APIs e bancos de dados.
+Minha experiência profissional inclui gestão operacional e administrativa, vendas e liderança de equipes no varejo de eletrônicos e telefonia. Hoje, aplico essa bagagem ao desenvolvimento de software, principalmente na análise de processos, requisitos e regras de negócio.
 
-Busco oportunidades em Desenvolvimento de Software e Análise de Sistemas na Grande Florianópolis ou remotamente no Brasil. Meu objetivo é atuar como desenvolvedor full stack e evoluir na construção de aplicações completas.
+Atualmente, desenvolvo projetos web com JavaScript, interfaces, APIs e bancos de dados. Busco oportunidades em Desenvolvimento de Software e Análise de Sistemas na Grande Florianópolis ou remotamente no Brasil, com o objetivo de atuar como desenvolvedor full stack.
 
 ## Tecnologias
 
