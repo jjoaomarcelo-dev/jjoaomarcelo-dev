@@ -4,7 +4,7 @@
 
 <img src="assets/name-underline.svg" width="420" height="6" alt="" aria-hidden="true">
 
-Desenvolvimento Web · JavaScript · Análise de Sistemas
+Sistemas de Informação · Desenvolvimento Full Stack · Gestão Operacional
 
 <br>
 
@@ -19,9 +19,9 @@ Desenvolvimento Web · JavaScript · Análise de Sistemas
 
 ## Sobre mim
 
-Minha experiência profissional inclui gestão operacional e administrativa, vendas e liderança de equipes no varejo de eletrônicos e telefonia. Hoje, aplico essa bagagem ao desenvolvimento de software, principalmente na análise de processos, requisitos e regras de negócio.
+Minha trajetória combina formação em Sistemas de Informação com experiência em gestão operacional, vendas e liderança de equipe. Dessa atuação, trago prática em análise de processos, levantamento de requisitos, definição de regras de negócio e validação de funcionalidades.
 
-Atualmente, desenvolvo projetos web com JavaScript, interfaces, APIs e bancos de dados. Busco oportunidades em Desenvolvimento de Software e Análise de Sistemas na Grande Florianópolis ou remotamente no Brasil, com o objetivo de atuar como desenvolvedor full stack.
+Atualmente, desenvolvo projetos web e direciono minha carreira ao desenvolvimento full stack. Busco oportunidades em Desenvolvimento de Software e Análise de Sistemas na Grande Florianópolis ou remotamente no Brasil.
 
 ## Tecnologias
 
@@ -31,9 +31,7 @@ JavaScript · TypeScript · HTML5 · CSS3 · React · Next.js · SQL · PostgreS
 
 ### DeliveryFone Trade OS
 
-Aplicação web criada a partir de problemas reais da operação de uma loja de eletrônicos e telefonia. O sistema reúne recursos para controle de estoque, precificação e simulação de negociações.
-
-**Minha atuação:** definição de requisitos, fluxos e regras de negócio, acompanhamento da implementação e validação das funcionalidades.
+Aplicação web de gestão comercial baseada em necessidades que identifiquei na operação de uma loja de eletrônicos e telefonia. Reúne controle de estoque, precificação e simulação de negociações, com regras de negócio definidas a partir da rotina comercial.
 
 **Tecnologias:** Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS e Jest.
 
@@ -43,9 +41,7 @@ Aplicação web criada a partir de problemas reais da operação de uma loja de 
 
 ### JavaScript Projects Dashboard
 
-Dashboard que desenvolvi para organizar minha prática em JavaScript durante a retomada ao desenvolvimento de software. A aplicação reúne exercícios e projetos em uma única interface e recebe novas funcionalidades conforme avanço nos estudos.
-
-**Desenvolvimento:** cadastro, edição e remoção de registros, filtros, validação, persistência local e interface responsiva.
+Dashboard para organizar minha prática em JavaScript durante a retomada ao desenvolvimento de software. Permite cadastrar, editar, excluir e filtrar registros de exercícios e projetos, com validação de campos, armazenamento no navegador e interface responsiva.
 
 **Tecnologias:** JavaScript (ES6+), HTML5, CSS3 e Web Storage API.
 
