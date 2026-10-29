@@ -45,4 +45,4 @@ Dashboard para organizar minha prática em JavaScript durante a retomada ao dese
 
 **Tecnologias:** JavaScript (ES6+), HTML5, CSS3 e Web Storage API.
 
-**[Ver código e instruções de execução →](https://github.com/jjoaomarcelo-dev/javascript-projects-dashboard)**
+**[Ver código e documentação](https://github.com/jjoaomarcelo-dev/javascript-projects-dashboard)** · **[Executar Dashboard ↗](https://jjoaomarcelo-dev.github.io/javascript-projects-dashboard/)**
