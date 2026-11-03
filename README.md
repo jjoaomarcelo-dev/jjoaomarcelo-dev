@@ -21,7 +21,7 @@ Sistemas de Informação · Desenvolvimento Full Stack · Gestão Operacional
 
 Minha trajetória combina formação em Sistemas de Informação com experiência em gestão operacional, vendas e liderança de equipe. Dessa atuação, trago prática em análise de processos, levantamento de requisitos, definição de regras de negócio e validação de funcionalidades.
 
-Atualmente, desenvolvo projetos web e direciono minha carreira ao desenvolvimento full stack. Busco oportunidades em Desenvolvimento de Software e Análise de Sistemas na Grande Florianópolis ou remotamente no Brasil.
+Atualmente, desenvolvo projetos web e continuo aprofundando meus conhecimentos em desenvolvimento Full Stack, explorando tecnologias e construindo soluções práticas que unem programação, análise de sistemas e regras de negócio.
 
 ## Tecnologias
 
